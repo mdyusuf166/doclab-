@@ -1,4 +1,4 @@
-<div align="center">
+*<div align="center">
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/doclab)
   ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/doclab?style=social)
